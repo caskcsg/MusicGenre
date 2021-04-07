@@ -1,5 +1,6 @@
 # Paper of the source codes released:
-Chunyuan Yuan, Qianwen Ma, Wei Zhou, Jizhong Han, Songlin Hu. Jointly embedding the local and global relations of heterogeneous graph for rumor detection. Proceedings of the 28th ACM International Conference on Multimedia, ACM Multimedia 2020.
+Chunyuan Yuan, Qianwen Ma, Junyang Chen, Wei Zhou, Xiaodan Zhang, Xuehai Tang, Jizhong Han, and Songlin Hu. Exploiting Heterogeneous Artist and Listener Preference Graph for Music Genre Classification[C]//Proceedings of the 28th ACM International Conference on Multimedia. 2020: 3532-3540.
+
 
 # Dependencies:
 Gensim==3.7.2
